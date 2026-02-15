@@ -1,0 +1,26 @@
+# Mickey & Sylvia – Love Is Strange
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.18] Love, love is strange
+[00:24.45] Many people take it for a game
+[00:33.56] Once you've had it, you're in an awful fix
+[00:41.74] 'Cause after you've had it you never want to quit
+[00:50.82] A lot of people, they don't understand
+[00:58.99] They think lovin' is money in their hand
+[01:08.07] Your sweet lovin' is better than a kiss
+[01:16.31] When you leave me, those kisses I will miss
+[01:37.81] 
+[01:42.78] Love, oh, whoa, love is strange
+[01:50.11] Many people, oh, whoa, take it for a game
+[01:59.23] Once you've had it, oh, whoa, you're in an awful fix
+[02:07.47] 'Cause after you've had it, oh, whoa, you never want to quit
+[02:16.63] A lot of people, whoa, whoa, they don't understand
+[02:24.76] They think lovin', oh, whoa, is money in their hand
+[02:32.89] Your sweet lovin', oh, whoa, is better than a kiss
+[02:41.02] When you leave me, oh, whoa, those kisses I will miss
+[02:50.05] When you leave me, oh, whoa, those kisses I will miss
+[02:59.08] Those kisses I will miss, those kisses I will miss
+[03:05.40] Those kisses I will miss
+```
