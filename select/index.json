@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Love Is Strange",
+  "base_artist": "Mickey & Sylvia",
+  "createdAt": "2026-02-15T14:25:14.011733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Everything But the Girl",
+      "has_synced": true,
+      "path": "select/01_Love_Is_Strange_Everything_But_the_Girl.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Sic Alps",
+      "has_synced": true,
+      "path": "select/02_Love_Is_Strange_Sic_Alps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Mickey & Sylvia",
+      "has_synced": true,
+      "path": "select/03_Love_Is_Strange_Mickey_&_Sylvia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Buddy Holly",
+      "has_synced": true,
+      "path": "select/04_Love_Is_Strange_Buddy_Holly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Mickey & Sylvia",
+      "has_synced": true,
+      "path": "select/05_Love_Is_Strange_Mickey_&_Sylvia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Is Strange (Single Edit)",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/06_Love_Is_Strange_(Single_Edit)_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/07_Love_Is_Strange_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Mickey & Sylvia",
+      "has_synced": true,
+      "path": "select/08_Love_Is_Strange_Mickey_&_Sylvia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Wings",
+      "has_synced": true,
+      "path": "select/09_Love_Is_Strange_Wings.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Buddy Holly",
+      "has_synced": true,
+      "path": "select/10_Love_Is_Strange_Buddy_Holly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "The Everly Brothers",
+      "has_synced": false,
+      "path": "select/11_Love_Is_Strange_The_Everly_Brothers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "The Everly Brothers",
+      "has_synced": true,
+      "path": "select/12_Love_Is_Strange_The_Everly_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Buddy Holly & The Crickets",
+      "has_synced": false,
+      "path": "select/13_Love_Is_Strange_Buddy_Holly_&_The_Crickets.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Mickey & Sylvia",
+      "has_synced": true,
+      "path": "select/14_Love_Is_Strange_Mickey_&_Sylvia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Is Strange",
+      "artist": "Mickey & Sylvia",
+      "has_synced": true,
+      "path": "select/15_Love_Is_Strange_Mickey_&_Sylvia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Is Strange",
+      "artist": "Mickey And Sylvia",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Is_Strange_Mickey_And_Sylvia.txt"
+    }
+  ]
+}
